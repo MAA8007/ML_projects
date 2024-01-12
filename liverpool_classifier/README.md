@@ -1,7 +1,7 @@
 # Liverpool FC Player Classifier
 
 ## Overview
-The Liverpool FC Player Classifier is a deep learning application designed to classify images of Liverpool FC players. This project leverages the FastAI library, a high-level API on top of PyTorch, for efficient and accessible deep learning. It also uses Gradio for an easy-to-use web interface.
+The Liverpool FC Player Classifier is a deep learning application designed for classifying images of Liverpool FC players. Built with the FastAI library on top of PyTorch, this application provides an accessible approach to deep learning. The model has been trained to recognize various Liverpool FC players with a high degree of accuracy and is accessible both locally and through an interactive web interface hosted on Hugging Face Spaces.
 
 ## Features
 - **Data Collection**: Automates the collection of player images using the SerpApi.
