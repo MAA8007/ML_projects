@@ -1,7 +1,7 @@
 # Real-World Sentiment Analysis: Flipkart Product Reviews
 
 ## Project Overview
-This sentiment analysis project utilizes DistilBERT, a cutting-edge transformer model, for analyzing user-generated product reviews from Flipkart. It showcases how businesses can apply Natural Language Processing (NLP) techniques to derive valuable insights from customer feedback.
+This sentiment analysis project utilizes DistilBERT, a cutting-edge transformer model, for analyzing user-generated product reviews from Flipkart. It showcases how businesses can apply Natural Language Processing (NLP) techniques to derive valuable insights from customer feedback. The trained model is available on the Hugging Face Hub for easy access and deployment. **Model URL:** [Arsalan8/my_multiclass_model](https://huggingface.co/Arsalan8/my_multiclass_model)
 
 ## Real-World Applicability
 - **Business Insight:** Provides businesses with crucial insights by analyzing customer reviews.
