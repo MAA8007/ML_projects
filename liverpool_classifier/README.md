@@ -42,7 +42,7 @@ To use the Liverpool FC Player Classifier, follow these instructions:
 2. Access the web interface, upload an image, and see the classifier's predictions.
 
 ## Model Training
-The model is trained on a dataset of images of various Liverpool FC players. It uses transfer learning with the ResNet34 architecture and is fine-tuned for specific player recognition. The classifier achieves a high accuracy of 93%, demonstrating its effectiveness in correctly identifying the players.
+The model is trained on a dataset of images of various Liverpool FC players. It uses transfer learning with the ResNet34 architecture and is fine-tuned for specific player recognition. The classifier achieves a high accuracy of 84%, demonstrating its effectiveness in correctly identifying the players.
 
 ## Exporting and Loading the Model
 - The trained model is exported to a `.pkl` file for easy loading and inference.
