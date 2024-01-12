@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-Welcome to my collection of machine learning projects! To try them out, visit my Hugging Face profile: [Arsalan8](https://huggingface.co/Arsalan8
+Welcome to my collection of machine learning projects! To try them out, visit my Hugging Face profile: https://huggingface.co/Arsalan8
 
 This repository contains a collection of machine learning and natural language processing projects, each leveraging state-of-the-art techniques and technologies such as TensorFlow, Gradio, NLTK, and FastAI. The projects cover a range of applications from text classification to sentiment analysis, providing practical solutions in real-world scenarios.
 
