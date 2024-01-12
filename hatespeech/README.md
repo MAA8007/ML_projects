@@ -14,7 +14,7 @@ license: apache-2.0
 
 ## Project Overview
 
-This project focuses on detecting hate speech in text data, particularly from tweets. It combines data preprocessing, TensorFlow-based model development, and deployment using Gradio for real-time, interactive predictions.
+This project focuses on detecting hate speech in text data, particularly from tweets. It combines data preprocessing, TensorFlow-based model development, and deployment using Gradio for real-time, interactive predictions. You can check it out here! https://huggingface.co/spaces/Arsalan8/hatespeech_detector
 
 ## Key Features
 
